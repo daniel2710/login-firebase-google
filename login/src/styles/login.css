@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500&display=swap');
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+input{
+    height: 40px;
+    border: 1px solid rgb(248, 248, 248);
+    border-radius: 5px;
+    outline: none;
+}
+
+button{
+    height: 40px !important;
+    font-size: 1.1rem !important;
+}
+
+label{
+    text-align: start;
+}
+
+.btn-signin{
+    background-color: #EE27FF !important;
+    color: #fff;
+}
+
+.login{
+    height: 100vh;
+}
+
+.logo{
+    height: 100vh;
+}
+
+.form-login{
+    margin: auto;
+}
+
+.logo-img{
+    margin: auto;
+}
+
+.logo-img img{
+    width: 100%;
+    height: auto;
+}
